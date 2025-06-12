@@ -12,6 +12,7 @@ public class Wrap {
     double d2 = d1.doubleValue();        // non-static method called by object name of that class
     System.out.println(d1);
 
+
   }
 
 }
